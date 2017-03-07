@@ -15,3 +15,6 @@ I have a second script that extracts the text.
 The images look the same to my eyes.
 
 A future test would be to run a deep learning library or image analysis tool on the images to see if they spot the bits.   They should be able to.   A future NiFi tool would be to spot hidden images.
+
+Article:
+https://community.hortonworks.com/content/kbentry/87397/steganography-with-apache-nifi-1.html
